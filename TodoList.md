@@ -1,0 +1,1 @@
+1. Update makefile to build dynamic and static libraries
